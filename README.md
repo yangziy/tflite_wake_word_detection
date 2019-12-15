@@ -13,18 +13,6 @@ M3) and only uses about 10 kilobytes of RAM for working memory, so it's able to
 run on systems like an STM32F103 with only 20 kilobytes of total SRAM and 64
 kilobytes of Flash.
 
-## Table of contents
-
--   [Getting started](#getting-started)
--   [Deploy to Arduino](#deploy-to-arduino)
--   [Deploy to SparkFun Edge](#deploy-to-sparkfun-edge)
--   [Deploy to STM32F746](#deploy-to-STM32F746)
--   [Deploy to NXP FRDM K66F](#deploy-to-nxp-frdm-k66f)
--   [Run on macOS](#run-on-macos)
--   [Run the tests on a development machine](#run-the-tests-on-a-development-machine)
--   [Calculating the input to the neural network](#calculating-the-input-to-the-neural-network)
--   [Train your own model](#train-your-own-model)
-
 ## Deploy to Arduino
 
 The following instructions will help you build and deploy this sample
